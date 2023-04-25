@@ -12,6 +12,8 @@ When data is stored in contiguous memory.
 
 Data does not have a complex structure or relationships.
 # Output
+![image](https://user-images.githubusercontent.com/76811184/234414046-d8272abe-2264-4d78-a251-b4d45b4a7f91.png)
+
 
 # Advantages of Binary Search:
 
